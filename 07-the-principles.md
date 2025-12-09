@@ -4,6 +4,29 @@
 
 ---
 
+## The Test at 2 AM
+
+Picture this:
+
+It's 2 AM. A major retail chain approaches with an offer: exclusive partnership for their rural stores. They want priority booking, surge pricing during high demand, and a 15% commission kickback.
+
+In return: guaranteed 500 rides per day. Immediate revenue. Impressive growth metrics. The kind of deal that would make investors cheer.
+
+But here's what it means:
+- Priority booking = regular customers wait longer
+- Surge pricing = farmers pay more during harvest when they can least afford it
+- 15% kickback = we're essentially taking 20% from providers instead of 5%
+
+At 2 AM, tired, under pressure, with a growth target looming — what do you do?
+
+This is why principles exist.
+
+Not for the easy decisions. For the hard ones. For the moments when doing the right thing costs you something.
+
+The principles in this chapter aren't suggestions. They're boundaries. Lines we draw before we're tested, so we know where we stand when the test comes.
+
+---
+
 ## Why Principles Matter
 
 Decisions are easy when the right choice is obvious. They're hard when every option has costs, when good intentions conflict, when short-term and long-term pull apart.
@@ -22,6 +45,20 @@ This chapter is the constitutional core of 1km. These principles should guide:
 - Anyone who will ever make a decision on behalf of the platform
 
 When in doubt, return here.
+
+---
+
+## A Note Before Reading
+
+**These principles override growth, metrics, and momentum.**
+
+When a principle conflicts with a KPI, the principle wins.
+When a principle conflicts with investor expectations, the principle wins.
+When a principle conflicts with "but we need to move fast," the principle wins.
+
+If that sounds impractical, you haven't understood what principles are for.
+
+Principles exist precisely for the moments when doing the right thing is costly. If they only apply when convenient, they're not principles — they're preferences.
 
 ---
 
@@ -67,6 +104,8 @@ When in doubt, return here.
 
 **Test:** Could we explain this policy to a farmer in plain language without feeling embarrassed?
 
+**Example:** A business account generates 50 rides/month. An individual customer generates 2. When both have a dispute, both get the same fair process. We don't favour the bigger customer. Ever.
+
 ---
 
 ### 4. Local Knowledge, Local Power
@@ -109,6 +148,8 @@ When in doubt, return here.
 
 **Test:** Does this work for someone with a feature phone and no bank account?
 
+**Example:** We considered giving ₹10 off for digital payments. We rejected it. That's not an incentive — it's a penalty for being poor. Cash users get the same price, same service, same respect.
+
 ---
 
 ### 7. Immediate Money, Not Platform Float
@@ -136,6 +177,8 @@ When in doubt, return here.
 - "Dynamic pricing" is banned vocabulary
 
 **Test:** Can a customer reliably predict what they'll pay?
+
+**Example:** During harvest season, demand spikes. Other platforms would surge 2x. We don't. Instead, we notify more providers, offer small availability bonuses, and accept that some rides won't be fulfilled. The customer who books pays the same as always. Trust is worth more than clearing every transaction.
 
 ---
 
@@ -237,6 +280,23 @@ When in doubt, return here.
 
 ---
 
+### 16. Slow Is Smooth, Smooth Is Fast
+
+*Rushing creates chaos. Deliberate pace creates sustainable speed.*
+
+**In practice:**
+- Launch one zone properly before launching the next
+- Onboard providers thoroughly, not quickly
+- Let trust compound rather than forcing growth
+- Fix problems completely before moving on
+- Say "not yet" more often than "let's try"
+
+**Test:** Are we moving at trust speed, or at investor speed?
+
+**Example:** Zone Two is ready. We could launch next week. But Zone One still has provider earnings volatility we don't understand. We wait. We diagnose. We fix. Then — and only then — we launch Zone Two. The delay costs a month. The learning prevents a year of problems.
+
+---
+
 ## Applying the Principles
 
 Principles conflict. Provider prosperity might tension with customer trust. Simplicity might tension with fairness. Local power might tension with consistency.
@@ -281,6 +341,38 @@ Here's how to know if the principles are working:
 - When a mistake is caught, it's clearly a violation of principles we already had, not a gap we never addressed.
 
 Principles don't guarantee success. But they guarantee that however things turn out, we can be proud of how we acted.
+
+---
+
+## Chapter Summary
+
+**The 16 Principles:**
+
+1. Provider Prosperity First
+2. Trust Over Growth
+3. Fairness Is Non-Negotiable
+4. Local Knowledge, Local Power
+5. Simplicity Over Cleverness
+6. Cash Is Welcome
+7. Immediate Money, Not Platform Float
+8. No Surge Pricing
+9. Dignity In Every Interaction
+10. Document Everything
+11. Safety Without Surveillance
+12. Long-Term Over Short-Term
+13. Admit Mistakes Quickly
+14. Earn, Don't Extract
+15. Include, Don't Exclude
+16. Slow Is Smooth, Smooth Is Fast
+
+**How to use them:**
+- Reference constantly in decisions
+- Challenge violations openly
+- Update thoughtfully and rarely
+- Tell stories when principles guide hard choices
+- Hire for alignment
+
+**The ultimate test:** If we followed these principles perfectly and still failed, would we be proud of how we operated? The answer must be yes.
 
 ---
 

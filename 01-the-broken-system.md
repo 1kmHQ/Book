@@ -22,6 +22,46 @@ This is not a logistics problem. This is an **infrastructure failure** so normal
 
 ---
 
+## The Numbers Behind the Crisis
+
+Let's ground this in data:
+
+- **Rural India**: ~65% of India's population, ~833 million people
+- **Vehicle ownership**: Only 8% of rural households own a four-wheeler
+- **Transport cost**: Rural transport costs 30-50% more per kilometre than urban
+- **Post-harvest losses**: 15-20% of agricultural produce lost to logistics failures
+- **Income unpredictability**: Rural transport workers face 40-60% income volatility month to month
+
+These aren't just statistics. Each number represents millions of people caught in a system that doesn't work.
+
+---
+
+## The Micro-Economics of Rural Movement
+
+Consider the economics of a single trip:
+
+A farmer needs to move 200 kg of tomatoes 15 km to the mandi.
+- **Expected sale price**: ₹4,000
+- **Transport cost (if available)**: ₹300-500
+- **Margin**: ₹500-800 after costs
+
+Now consider what happens when transport isn't available:
+- **Delayed sale**: Price drops 20-30% → loses ₹800-1,200
+- **Spoilage risk**: Loses entire crop → loses ₹4,000
+- **Alternative (middleman)**: Sells at farm gate for ₹2,500 → loses ₹1,500
+
+The difference between having reliable transport and not having it is often **the entire profit margin**.
+
+For transport providers, the economics are equally fragile:
+- **Daily vehicle operating cost**: ₹400-600 (fuel, maintenance, depreciation)
+- **Break-even trips**: 4-5 minimum
+- **Good day**: 6-7 trips → ₹600-800 net income
+- **Bad day**: 1-2 trips → net loss
+
+One bad week can wipe out a month's savings. No wonder providers are desperate. No wonder customers are anxious.
+
+---
+
 ## What "Mobility" Means in Rural India
 
 In cities, mobility is an app away. Open your phone, book a ride, track the driver, pay digitally, rate the experience. The system is so seamless it feels inevitable.
@@ -93,6 +133,24 @@ And when he does get work, the payment structure is worse:
 - He stays where he is
 
 Murugan isn't poor because he doesn't work hard. He's poor because the system around him doesn't recognise his value.
+
+---
+
+## The Seasonal Volatility
+
+What makes rural transport even harder: **nothing is constant**.
+
+**Harvest season**: Sudden surge in demand. Every farmer needs vehicles at the same time. Prices spike. Those without contacts get nothing.
+
+**Monsoon**: Roads become unreliable. Some routes become impassable. Demand shifts unpredictably. Vehicles that worked last week are stuck this week.
+
+**Festival season**: Marriage season. Temple visits. Family gatherings. Personal transport demand explodes. Commercial logistics takes a back seat.
+
+**Lean season**: After harvest, demand drops. Providers who bought vehicles on EMI during good times now struggle to make payments.
+
+The informal system has no mechanism to handle this volatility. Providers can't plan. Customers can't rely. Everyone operates in constant uncertainty.
+
+A structured system must smooth these cycles — helping providers plan for lean periods, helping customers book ahead for peak demand, creating predictability in an unpredictable world.
 
 ---
 
@@ -213,6 +271,17 @@ They need **infrastructure** — invisible, reliable, fair infrastructure that s
 That's the opportunity. That's the responsibility.
 
 That's what the next chapter is about.
+
+---
+
+## Chapter Summary
+
+- Rural mobility is broken not by lack of vehicles or demand, but by lack of **coordination infrastructure**
+- The economics are brutal: 30-50% higher costs, 40-60% income volatility, 15-20% post-harvest losses
+- Informal systems fail especially during seasonal volatility: harvest, monsoon, festivals, lean periods
+- Urban platforms don't translate: wrong commission model, wrong payment assumptions, wrong trust dynamics
+- The opportunity is not another app — it's **invisible infrastructure** that makes reliable movement possible
+- The system we build must: start hyperlocal, charge fairly, work with cash, respect providers, enable businesses, govern locally, think in decades
 
 ---
 

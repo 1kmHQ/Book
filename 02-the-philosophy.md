@@ -4,6 +4,18 @@
 
 ---
 
+## The Philosophy in One Sentence
+
+If you take nothing else from this book, take this:
+
+> **Make movement predictable for those who depend on it, and prosperous for those who provide it.**
+
+That's it. Every feature, every policy, every decision flows from this single idea.
+
+Predictable movement for customers. Prosperity for providers. Everything else is implementation detail.
+
+---
+
 ## Why "1km"?
 
 The name is not metaphor. It's method.
@@ -23,6 +35,26 @@ This is **social infrastructure** — the oldest, most resilient network in huma
 If a driver is trustworthy within his village, the system should help him become trustworthy to the next village, and the next. If a business owner has good standing locally, the system should help them coordinate logistics across a district.
 
 We don't disrupt trust. We scale it.
+
+---
+
+## Trust Compounding: A Story
+
+Let me illustrate with a story that hasn't happened yet — but will.
+
+Kannan drives an auto in Dharapuram taluk. He's been on the platform for six months. He shows up on time. His vehicle is clean. Customers rate him well. He's earned a reputation: "Kannan is reliable."
+
+One day, a distributor in the neighbouring taluk — Udumalpet — needs vehicles. He asks around. Someone mentions: "There's this service. I've heard the Dharapuram drivers are good."
+
+Kannan gets a request from Udumalpet. A new customer. Someone he's never met. But the customer books him specifically because of his rating, his history, his reputation in Dharapuram.
+
+Kannan completes the job well. Now he has reputation in Udumalpet too.
+
+This is **trust compounding**. The trust Kannan built in one kilometre radius extends to the next. And the next. Not through marketing. Not through subsidies. Through demonstrated reliability that travels by word of mouth.
+
+This is what we mean when we say we scale trust. Kannan's trustworthiness, proven locally, becomes portable. The platform makes it visible. The network carries it further.
+
+Every provider who earns trust expands the system's reach. Every satisfied customer becomes evidence that the next customer can rely on.
 
 ---
 
@@ -245,6 +277,17 @@ These are not guidelines. They are boundaries. Lines we will not cross, regardle
 Because if we cross them, we become just another platform. Another promise broken. Another reason for rural India to distrust technology.
 
 And that's not what we're here to build.
+
+---
+
+## Chapter Summary
+
+- **The philosophy in one sentence**: Make movement predictable for those who depend on it, and prosperous for those who provide it
+- **Why "1km"**: One kilometre is the radius of trust — we extend it, not replace it
+- **Why rural-first**: Need is greater, economics are honest, trust compounds, and rural systems scale to urban (not vice versa)
+- **Three pillars**: Provider Prosperity, Customer Trust, Systemic Fairness
+- **What we're not**: Not an aggregator, not a disruptor, not a startup seeking exit, not optimising for growth
+- **The test**: Can we disappear into the background of daily life like good infrastructure should?
 
 ---
 

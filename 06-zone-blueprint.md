@@ -4,6 +4,26 @@
 
 ---
 
+## Meet Anand: Zone Admin, Dharapuram
+
+Anand was a driver for twelve years. Auto first, then tempo. He knows every road in Dharapuram taluk — paved and unpaved. He knows which ones flood in monsoon, which ones have the potholes that damage axles, which ones are shortcuts that Google doesn't show.
+
+More importantly, he knows people. The farmers who ship tomatoes every Tuesday. The distributors who need vehicles at dawn. The families who travel to temple towns on weekends. He's driven for all of them.
+
+When 1km came to Dharapuram, Anand was skeptical. Another app? Another company from the city that doesn't understand how things work here?
+
+But something was different. They asked him questions instead of giving instructions. They wanted to know: What do providers need? What do customers complain about? What would make this work *here*, in *this* place?
+
+Six months later, Anand isn't driving anymore. He's the zone admin.
+
+His day: onboarding new providers (he vets them personally — "I know who's reliable"). Solving problems (a damaged shipment, a disputed fare). Adjusting things ("harvest starts next week, we'll need more tempos"). Being the face of 1km in a community that knows his face already.
+
+The zone isn't run from some office in Bangalore. It's run by Anand, who lives here, who stakes his reputation on it, who knows that if it fails, he fails in front of people he's known for decades.
+
+This is the zone blueprint in human form.
+
+---
+
 ## What is a Zone?
 
 A zone is the **fundamental unit of 1km operations**.
@@ -163,6 +183,38 @@ Local profitability creates resilience. The zone doesn't depend on subsidies fro
 
 ---
 
+## Zone Health Score
+
+How do we know if a zone is healthy? We measure it.
+
+The **Zone Health Score** is a composite metric that captures overall zone vitality:
+
+| Component | Weight | What It Measures |
+|-----------|--------|------------------|
+| **Provider Earnings Stability** | 25% | Are providers earning consistently? (Low variance = good) |
+| **Customer Repeat Rate** | 20% | Do customers come back? (High repeat = trust) |
+| **Business Booking Share** | 15% | What % of rides are from business accounts? (Higher = stable demand) |
+| **Provider Availability** | 15% | Are there providers when customers need them? |
+| **Issue Resolution Time** | 10% | How fast are problems solved? |
+| **Provider Retention** | 10% | Do providers stay? (Low churn = prosperity) |
+| **Customer NPS** | 5% | Would customers recommend? |
+
+### Score Interpretation
+
+| Score | Status | Action |
+|-------|--------|--------|
+| 80-100 | **Thriving** | Maintain; consider expansion to adjacent areas |
+| 60-79 | **Healthy** | Monitor; address any declining components |
+| 40-59 | **Struggling** | Intervene; diagnose root cause; zone admin support |
+| Below 40 | **Critical** | Serious intervention or consider retirement |
+
+The score isn't punitive — it's diagnostic. A struggling zone isn't a failure; it's a zone that needs attention and resources.
+
+> **[Figure 6.1: Zone Health Dashboard]**
+> *Visual showing a sample zone with health score components, trend lines, and comparison to zone benchmarks*
+
+---
+
 ## Zone Lifecycle
 
 Zones evolve through stages:
@@ -222,6 +274,54 @@ From a mature zone, growth happens naturally:
 - The trust earned in Zone A travels to Zone B
 
 New zones seeded from mature zones start faster — they have borrowed trust.
+
+---
+
+## Failing Zones: When to Intervene or Retire
+
+Not every zone will succeed. That's reality, not failure.
+
+### Warning Signs
+
+- **Provider exodus**: More leaving than joining for 2+ consecutive months
+- **Demand collapse**: Booking volume drops 50%+ without seasonal explanation
+- **Zone admin burnout**: Admin disengaged or requesting exit
+- **Trust erosion**: Multiple serious complaints, community backlash
+- **Economic unviability**: No path to covering costs visible
+
+### Intervention Options
+
+**Diagnose first**: Before acting, understand *why* the zone is struggling.
+- Is it demand-side? (Economic downturn, competitor, wrong zone selection)
+- Is it supply-side? (Provider quality, pricing, payout issues)
+- Is it operations? (Zone admin ineffective, support gaps)
+- Is it external? (Infrastructure changes, regulatory issues)
+
+**Intervention toolkit**:
+- Zone admin change or support
+- Pricing restructure
+- Provider quality focus (training, removal of bad actors)
+- Marketing push (if demand-side)
+- Pause expansion to focus on recovery
+
+### When to Retire a Zone
+
+Sometimes the right answer is to close.
+
+**Criteria for retirement**:
+- Intervention attempted for 3+ months without improvement
+- No viable path to local profitability
+- Provider and customer base unsustainable
+- Zone admin cannot be retained or replaced
+
+**How to retire gracefully**:
+- Communicate honestly with providers and customers
+- Help providers transition (connect to adjacent zones if possible)
+- Refund any outstanding customer balances
+- Document learnings for future zone selection
+- No shame — learning what doesn't work is valuable
+
+**The principle**: Better to close one zone well than to let it limp along, damaging reputation and draining resources.
 
 ---
 
@@ -355,6 +455,24 @@ Every zone should be:
 The goal isn't maximum zones. It's maximum zone health.
 
 Healthy zones are the only zones that matter.
+
+---
+
+## Chapter Summary
+
+- **Zone = fundamental unit**: Everything else is built from zones; each is a self-contained economy
+- **Zone admin is crucial**: Local person with roots, reputation, and skin in the game — not remote employee
+- **Zone economics**: Pricing, commission (2-5%), incentives all calibrated to local conditions
+- **Zone Health Score**: Composite metric tracking provider earnings, customer retention, availability, resolution time
+- **Zone lifecycle**: Seed → Pilot → Growth → Maturity → Expansion (each stage has criteria)
+- **Federated governance**: Central provides tools and standards; zones provide execution and judgment
+- **Failing zones**: Warning signs, intervention options, and graceful retirement when needed
+- **Zone density matters**: Better 10 excellent zones than 50 struggling ones
+- **Network of networks**: As zones mature, they connect — cross-zone rides, portable reputation, shared learnings
+- **Resilience through distribution**: Local strength protects against central failure, bad decisions, extraction, irrelevance
+
+> **[Figure 6.2: Zone Lifecycle Stages]**
+> *Visual showing progression from Seed to Pilot to Growth to Maturity to Expansion, with criteria at each stage*
 
 ---
 

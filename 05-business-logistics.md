@@ -4,6 +4,36 @@
 
 ---
 
+## Lakshmi's Morning
+
+It's 4:30 AM. Lakshmi is already at her godown in Palani.
+
+She runs a small distribution business — packaged foods, household goods, basic supplies. Her territory: 40 shops across 8 villages within a 25 km radius.
+
+Today's challenge: 18 deliveries, 4 returns to collect, and one bulk order to pick up from the district warehouse.
+
+In the old way, this morning looks like:
+- 4:45 AM: Call Kumar (auto) — no answer
+- 4:50 AM: Call Selvan (tempo) — busy today
+- 5:00 AM: Call Raja — can do two trips, but not until 7 AM
+- 5:15 AM: Finally reach Mani — available, but wants ₹200 more than usual
+- 5:30 AM: Still 12 deliveries unassigned
+- 6:00 AM: First delivery already late
+
+By 8 AM, she's made 15 phone calls. Half her deliveries are delayed. Two shops have already complained. The pickup from the warehouse will have to wait until afternoon.
+
+Her day is spent firefighting logistics instead of growing her business.
+
+This is the life of a rural distributor. Every. Single. Day.
+
+Now imagine a different morning. One where Lakshmi scheduled all 18 deliveries yesterday evening. Where three vehicles confirmed for 5 AM pickup. Where she tracks each delivery in real-time. Where GST invoices generate automatically.
+
+That's what infrastructure looks like.
+
+As we explored in [Chapter 4](./04-provider-prosperity.md), provider prosperity is the foundation. But that prosperity depends on demand. And the most reliable demand comes from businesses like Lakshmi's.
+
+---
+
 ## The Business User
 
 When we talk about "customers," we often picture individuals — a person booking a ride to visit family, someone sending a package to a friend.
@@ -71,6 +101,25 @@ When we talked to hundreds of rural business owners, the same needs emerged:
 "If something goes wrong — damage, delay, loss — there needs to be recourse. Someone to call. Something to do."
 
 Traditional platforms offer almost none of this. They're built for individual, on-demand, spontaneous use. Business users are an afterthought.
+
+---
+
+## Before and After: The Transformation
+
+| Aspect | Before 1km | With 1km |
+|--------|-----------|----------|
+| **Finding vehicles** | 8-10 phone calls, 30+ minutes | One app, 2 minutes |
+| **Availability certainty** | "Maybe" / "I'll try" | Confirmed booking with provider name |
+| **Price negotiation** | Every single time | Fixed, transparent rates |
+| **Advance booking** | Informal promise (often broken) | System-confirmed with reminders |
+| **Multiple vehicles** | Coordinate separately, hope they align | Single ride group, coordinated pickup |
+| **Tracking** | "Where are you?" calls every hour | Real-time GPS, ETA updates |
+| **Payment** | Cash chaos, no records | Cash or digital, full documentation |
+| **Receipts** | Handwritten or none | GST-compliant invoice, downloadable |
+| **Disputes** | Shouting match, no resolution | Zone admin mediation, clear process |
+| **Monthly accounting** | Reconstruct from memory | Export transaction history |
+
+This table is the business case. Every row is time saved, stress reduced, or money accounted.
 
 ---
 
@@ -219,6 +268,42 @@ This isn't ride-hailing with a different icon. It's a different product flow bui
 
 ---
 
+## Reverse Logistics: The Hidden Need
+
+Here's something most platforms ignore: **returns**.
+
+In rural distribution, returns happen constantly:
+- Unsold goods coming back from shops
+- Defective products returned to distributor
+- Empty containers and crates going back for refill
+- Documents that need physical return (signed receipts, etc.)
+
+For a distributor, the cost of returns can be 20-30% of forward logistics cost. Without a system, they either:
+- Make separate trips (expensive)
+- Wait until they're in the area anyway (delays)
+- Ignore it (loses containers, delays settlements)
+
+### How 1km Handles Returns
+
+**Return tagging**: When booking a forward trip, optionally tag a return pickup
+- "After delivering to Shop A, pick up empty crates"
+- Provider knows in advance, plans accordingly
+- Single trip handles both directions
+
+**Scheduled return routes**: Regular pickups for returns
+- "Every Tuesday, collect returns from these 10 shops"
+- Provider has predictable work
+- Distributor has predictable return flow
+
+**Return confirmation**: Photo proof that returns were collected
+- Distributor knows exactly what came back
+- Disputes reduced
+- Accounting simplified
+
+This seems like a small feature. For businesses, it's often the difference between manageable operations and chaos.
+
+---
+
 ## The Float Problem
 
 Here's a pain point that surprised us: **floating capital**.
@@ -337,6 +422,24 @@ When business logistics works:
 - Path to profitability without extraction
 
 Business logistics isn't a segment. It's the foundation.
+
+---
+
+## Chapter Summary
+
+- **Business users are the anchor**: High frequency, predictable needs, willing to pay for reliability
+- **The logistics gap**: Businesses are capped by coordination friction, not demand
+- **What they need**: Predictable availability, advance booking, bulk booking, stable pricing, GST invoices, visibility, accountability
+- **Before/After transformation**: 8 calls → 2 minutes; cash chaos → documented transactions; "maybe" → confirmed
+- **Business accounts**: Verified identity, team access, consolidated billing, credit lines
+- **Bulk booking (Ride Groups)**: Multiple vehicles booked and managed as single coordinated operation
+- **Scheduled logistics**: Transform chaotic daily scramble into predictable professional operations
+- **GST invoicing**: Formalises informal economy; enables tax benefits; builds trust
+- **Reverse logistics**: Returns, empty containers, documents — the hidden 20-30% cost that platforms ignore
+- **The unlock**: Business logistics creates stable demand that makes provider prosperity sustainable
+
+> **[Figure 5.1: Business Bulk Booking Flow]**
+> *Visual showing: Business creates ride group → Multiple providers matched → Coordinated departure → Real-time tracking → Delivery confirmation → Single consolidated invoice*
 
 ---
 

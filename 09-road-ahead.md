@@ -4,6 +4,20 @@
 
 ---
 
+## Standing at the Edge
+
+It's early morning in Zone Zero. The first zone. The zone where everything we've written in this book will be tested.
+
+We've spent chapters describing the broken system, articulating our philosophy, detailing the hyperlocal model, explaining provider prosperity, outlining business logistics, mapping zone operations, codifying principles, and envisioning a hundred-year future.
+
+Now comes the moment of truth.
+
+Theory becomes practice. Philosophy becomes operations. Vision becomes reality — or doesn't.
+
+This chapter is about what happens next. The immediate steps. The pilot protocol. The success metrics. And — because we believe in honesty — what happens if we fail.
+
+---
+
 ## Where We Stand
 
 You've read about:
@@ -112,6 +126,46 @@ Failure is data. If Zone Zero fails, we learn why, adjust, and try again. The go
 
 ### The key rule
 No expansion decision until pilot proves the model. Pressure to grow faster will come. Resist it. The pilot is sacrosanct.
+
+---
+
+## Pilot Timeline: Visual
+
+> **[Figure 9.1: The 12-Week Pilot]**
+
+```
+WEEK    1    2    3    4    5    6    7    8    9   10   11   12
+        │    │    │    │    │    │    │    │    │    │    │    │
+        └────┴────┴────┴────┴────┴────┴────┴────┴────┴────┴────┘
+        
+PHASE 1: FOUNDATION (Weeks 1-4)
+├── Zone admin onboarded & trained
+├── Technology deployed & tested  
+├── First 10 providers recruited
+├── Soft launch with friendly testers
+└── Daily check-ins, rapid fixes
+
+PHASE 2: EARLY OPERATION (Weeks 5-8)
+├── Open to public bookings
+├── Expand to 20 providers
+├── First business accounts
+├── Support processes tested
+└── Weekly reviews with zone admin
+
+PHASE 3: ASSESSMENT (Weeks 9-12)
+├── Comprehensive data gathering
+├── Deep interviews (providers, customers)
+├── Zone admin retrospective
+├── Financial analysis
+└── Decision: proceed / pivot / conclude
+
+MILESTONES
+Week 2:  First 10 providers verified ○
+Week 4:  First 50 rides completed ○
+Week 6:  First business account active ○
+Week 8:  Provider earnings stable ○
+Week 12: Go/No-go decision ◆
+```
 
 ---
 
@@ -305,6 +359,67 @@ And even then, we add **one zone at a time**. No blitz. No sprint. Patient, meth
 
 ---
 
+## If Zone Zero Fails: What We Do Next
+
+Let's be honest: Zone Zero might not work.
+
+The pilot might reveal:
+- Demand assumptions were wrong
+- Provider economics don't close
+- Zone admin model doesn't scale
+- Competition is insurmountable
+- Technology needs fundamental rework
+
+Failure is not shameful. Failure is data.
+
+### What Failure Teaches Us
+
+**If providers don't prosper:**
+- Is commission still too high?
+- Are there not enough rides?
+- Is the zone poorly selected?
+- Are there structural issues (fuel costs, distances)?
+
+**If customers don't return:**
+- Is service quality poor?
+- Is pricing not competitive?
+- Is availability insufficient?
+- Are there trust issues?
+
+**If the zone admin struggles:**
+- Wrong person selected?
+- Insufficient training/support?
+- Too much scope?
+- Unrealistic expectations?
+
+### The Response Framework
+
+1. **Diagnose deeply** — Don't assume. Interview. Analyse. Understand root cause.
+
+2. **Pivot if possible** — Can the zone be saved with changes? Different pricing? Different admin? Different focus?
+
+3. **Retire gracefully if needed** — If the zone can't work, close it properly. Thank providers. Refund customers. Learn the lessons.
+
+4. **Try again** — Select a different zone. Apply learnings. Pilot again.
+
+5. **Question fundamentals** — If multiple zones fail, the problem might be the model, not the zone. Be willing to rethink everything.
+
+### What Failure Doesn't Mean
+
+Failure of Zone Zero doesn't mean:
+- The mission is wrong
+- Rural India doesn't need this
+- We should give up
+
+It means:
+- Our specific approach needs adjustment
+- We have more to learn
+- The path is harder than expected
+
+The hundred-year plan assumes setbacks. The question isn't whether we'll fail, but whether we'll learn from failure and persist.
+
+---
+
 ## The Questions That Keep Us Honest
 
 As we move forward, we must keep asking:
@@ -367,6 +482,22 @@ Until, one day, those kilometres connect. Until the infrastructure exists. Until
 That's where we're going.
 
 **The road ahead is one kilometre at a time.**
+
+---
+
+## Chapter Summary
+
+- **Start with one zone**: All ambition channelled into making Zone Zero work
+- **The first zone**: Carefully selected based on need, potential, reachability, admin candidate
+- **Success criteria**: 20+ providers earning, 100+ rides, 5+ business accounts, zero safety incidents, high satisfaction
+- **The 12-week pilot**: Foundation (weeks 1-4) → Early operation (5-8) → Assessment (9-12)
+- **Hypotheses to test**: Low commission sustainability, provider preference, business willingness, zone admin scalability, cash coexistence, scheduled booking value
+- **Small team**: 4-5 people maximum — founders, tech lead, ops lead, zone admin
+- **Minimal technology**: What's needed to test hypotheses, nothing more
+- **Metrics that matter**: Leading (provider earnings, repeat rate) over lagging (downloads, registrations)
+- **If Zone Zero fails**: Diagnose, pivot if possible, retire gracefully if needed, try again, question fundamentals
+- **Expansion checklist**: Local profitability, provider prosperity, customer satisfaction, admin independence, playbooks exist, capacity available
+- **The mindset**: Embrace uncertainty, be present, celebrate small wins, acknowledge setbacks, protect the mission
 
 ---
 
