@@ -60,6 +60,21 @@ For transport providers, the economics are equally fragile:
 
 One bad week can wipe out a month's savings. No wonder providers are desperate. No wonder customers are anxious.
 
+### Beyond Agriculture: The Medical Journey
+
+The broken system isn't just about goods. Consider Kavitha, a pregnant woman in a village 12 km from the nearest government hospital.
+
+At 3 AM, her water breaks. Her family has no vehicle. They call the only driver they know — no answer. They try another — his phone is switched off. A third picks up, but he's 8 km away and won't come for less than ₹500.
+
+By the time they reach the hospital, it's 5 AM. Two hours of anxiety, uncertainty, and negotiation during a medical emergency.
+
+This story repeats across rural India: children missing school because transport is unreliable, elderly patients skipping follow-up appointments, job seekers unable to reach interviews.
+
+The infrastructure failure isn't just economic. It's human.
+
+> **[Figure 1.1: Informal Network vs Structured Access]**
+> *Visual showing two scenarios — left side: "Informal Network" with scattered phone calls, uncertain availability, variable pricing, no tracking. Right side: "Structured Access" with visible availability, standardised pricing, real-time coordination, reliable coverage.*
+
 ---
 
 ## What "Mobility" Means in Rural India
@@ -274,10 +289,36 @@ That's what the next chapter is about.
 
 ---
 
+## The Systemic Failure
+
+Step back and see the full picture.
+
+This isn't a technology problem — technology exists. It isn't a demand problem — demand is everywhere. It isn't a supply problem — vehicles and drivers exist.
+
+It's a **coordination problem**. A trust problem. An infrastructure problem.
+
+The pieces exist. The system to connect them doesn't.
+
+And because the system doesn't exist, everyone suffers:
+- Farmers lose crops they could have sold
+- Providers lose income they could have earned
+- Businesses stay small when they could grow
+- Communities remain fragmented when they could be connected
+- Potential stays trapped when it could flow
+
+The question isn't whether this needs to change. It does. The question is: *what would it take to change it?*
+
+That's where philosophy enters. Not abstract theory — practical philosophy. A set of beliefs about what the system should be, who it should serve, and how it should operate.
+
+**That's the subject of Chapter 2.**
+
+---
+
 ## Chapter Summary
 
 - Rural mobility is broken not by lack of vehicles or demand, but by lack of **coordination infrastructure**
 - The economics are brutal: 30-50% higher costs, 40-60% income volatility, 15-20% post-harvest losses
+- The human cost extends beyond economics: medical emergencies, education access, economic opportunity
 - Informal systems fail especially during seasonal volatility: harvest, monsoon, festivals, lean periods
 - Urban platforms don't translate: wrong commission model, wrong payment assumptions, wrong trust dynamics
 - The opportunity is not another app — it's **invisible infrastructure** that makes reliable movement possible

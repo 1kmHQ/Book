@@ -4,6 +4,10 @@
 
 ---
 
+*Chapter 1 described the problem: a coordination failure affecting millions. Before we discuss solutions, we must establish beliefs — the philosophy that will guide every decision.*
+
+---
+
 ## The Philosophy in One Sentence
 
 If you take nothing else from this book, take this:
@@ -55,6 +59,37 @@ This is **trust compounding**. The trust Kannan built in one kilometre radius ex
 This is what we mean when we say we scale trust. Kannan's trustworthiness, proven locally, becomes portable. The platform makes it visible. The network carries it further.
 
 Every provider who earns trust expands the system's reach. Every satisfied customer becomes evidence that the next customer can rely on.
+
+> **[Figure 2.1: Trust Compounding Flywheel]**
+> *Visual showing: Provider delivers reliably → Customer trusts → Customer recommends → New customer tries → Provider reputation grows → Reputation becomes portable → Trust extends to new zones → Network effect without network extraction*
+
+---
+
+## The Temptations We Resist
+
+Philosophy is tested by temptation. Here are the temptations we will face, and why we resist them:
+
+**The Temptation to Scale Fast**
+Venture capital loves growth curves. "Launch in 50 zones by Q4." "10x providers in 12 months." The pressure is real.
+
+Why we resist: Trust doesn't scale at venture speed. A zone launched before trust is established fails loudly and poisons the next zone. Better to be in 10 healthy zones than 50 struggling ones.
+
+**The Temptation to Subsidise Growth**
+Burn money to acquire users. Offer ₹0 rides to customers, ₹500 bonuses to providers. The users flood in.
+
+Why we resist: Subsidised users aren't real users. They leave when subsidies end. Worse, they train providers to depend on artificial incentives instead of sustainable earnings.
+
+**The Temptation to Extract for Efficiency**
+Increase commission "just 2% more." Add a "service fee." Take a larger float on payouts. The margins improve.
+
+Why we resist: Every rupee extracted from providers is trust destroyed. The provider math is fragile. We build prosperity, not dependency.
+
+**The Temptation to Centralise Control**
+Standardise everything. Override zone admins from headquarters. "We know better."
+
+Why we resist: We don't know better. Local knowledge beats central assumptions. The zone admin who has lived there for decades understands what we never will.
+
+Resisting these temptations is philosophy in action.
 
 ---
 
@@ -280,14 +315,34 @@ And that's not what we're here to build.
 
 ---
 
+## The Decision Test
+
+When facing any decision, apply this test:
+
+> **If a decision strengthens trust or prosperity, it is right. If it weakens either, it is wrong.**
+
+Not "does it improve metrics." Not "does it satisfy investors." Not "is it industry standard."
+
+Does it strengthen trust? Does it strengthen prosperity?
+
+If yes, proceed. If no, stop.
+
+This is the philosophy reduced to a decision rule. Use it.
+
+---
+
 ## Chapter Summary
 
 - **The philosophy in one sentence**: Make movement predictable for those who depend on it, and prosperous for those who provide it
 - **Why "1km"**: One kilometre is the radius of trust — we extend it, not replace it
 - **Why rural-first**: Need is greater, economics are honest, trust compounds, and rural systems scale to urban (not vice versa)
 - **Three pillars**: Provider Prosperity, Customer Trust, Systemic Fairness
+- **The temptations**: Fast scaling, subsidised growth, extraction for efficiency, centralised control — and why we resist each
 - **What we're not**: Not an aggregator, not a disruptor, not a startup seeking exit, not optimising for growth
-- **The test**: Can we disappear into the background of daily life like good infrastructure should?
+- **The decision test**: If it strengthens trust or prosperity, it's right. If it weakens either, it's wrong.
+- **The ultimate test**: Can we disappear into the background of daily life like good infrastructure should?
+
+**Philosophy gives us direction. But direction needs a map. That map is the hyperlocal economy — the subject of Chapter 3.**
 
 ---
 

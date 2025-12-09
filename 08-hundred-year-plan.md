@@ -4,6 +4,10 @@
 
 ---
 
+*Chapter 7 established our principles — how we make decisions. But decisions serve a direction. This chapter answers: where are we going? Not next quarter, but next century. What would it look like to succeed on a generational timescale?*
+
+---
+
 ## The Second Richest Man in Madurai
 
 There's a saying in Tamil Nadu: *"Madurai-la second richest aalu yaaru? Meenakshi Amman kovil."* (Who's the second richest in Madurai? The Meenakshi Temple.)
@@ -414,6 +418,72 @@ One hundred years is a long time. We won't see the end. But we can point the arr
 
 That's what this plan is. An arrow. A direction. A commitment to something larger than ourselves.
 
+> **[Figure 8.1: The Hundred-Year Timeline]**
+> *Visual showing progression: Year 1-5 (Foundation: 50-100 zones, prove model) → Year 5-15 (Expansion: 500+ zones, business logistics anchor) → Year 15-30 (Maturity: essential infrastructure, new zones self-form) → Year 30-100 (Legacy: utility status, global model, stakeholder governance)*
+
+---
+
+## If 1km Disappears Tomorrow
+
+Let's imagine the inverse. What would be lost if 1km ceased to exist tomorrow?
+
+**For providers:**
+- Return to informal market: income volatility, waiting for calls, no reputation portability
+- Loss of 5% vs 20% commission advantage — thousands of rupees per year back to platforms
+- No instant payouts — waiting for money that should be theirs
+- No slot system — back to algorithmic control or desperate waiting
+
+**For customers:**
+- Return to phone-call chaos: 8 calls for 2 deliveries
+- No visibility into availability or arrival
+- Higher prices (passed-through platform extraction)
+- No scheduled or bulk booking infrastructure
+
+**For businesses:**
+- Logistics becomes bottleneck again — growth capped by coordination capacity
+- No consolidated invoicing, no GST documentation
+- Back to managing individual driver relationships
+
+**For communities:**
+- A system that served local interests replaced by one that extracts for distant shareholders
+- Trust networks fragmented
+- Economic leakage as commissions flow out of the community
+
+This isn't a marketing exercise. It's a responsibility reminder. The system we're building matters to real people. If we fail, they suffer real consequences.
+
+That's why we think in centuries. Not because it sounds impressive. Because the alternative — building something temporary — isn't worth doing.
+
+---
+
+## Inheriting Leadership Across Generations
+
+How do you pass a mission to people who haven't been born yet?
+
+This is the hardest question in long-term institution building. Here's our approach:
+
+**1. Document Everything**
+Not just what we do, but why. This book is part of that. Decision logs. Post-mortems. The stories behind policies. The debates that shaped principles.
+
+Future leaders can't read our minds. They can read our documents.
+
+**2. Train Successors Early**
+By Year 10, leadership development should be a core function. Not because we're leaving — but because we might get hit by a bus, or burn out, or simply need fresh energy.
+
+Leaders grow inside the system. They understand the mission because they've lived it.
+
+**3. Create Transition Rituals**
+When leadership changes, it should be a moment of recommitment. The incoming leader reads this book. They meet with providers and zone admins. They articulate, in their own words, what the mission means.
+
+Rituals create continuity across individuals.
+
+**4. Maintain Tension Between Stability and Adaptation**
+Principles stay stable. Strategies adapt. The next generation must know the difference — which battles are worth fighting forever, and which positions are negotiable.
+
+This tension is taught through stories, debates, and explicit discussion. It can't be mandated; it must be cultivated.
+
+**5. Plan for Failure Modes**
+What if a future leader betrays the mission? There should be structural checks: stakeholder governance, principle audits, public accountability. No single person should have unchecked power to destroy what's been built.
+
 ---
 
 ## Chapter Summary
@@ -424,10 +494,13 @@ That's what this plan is. An arrow. A direction. A commitment to something large
 - **Governance evolution**: Startup → Institution → Stakeholder Entity → Public Utility
 - **The transition problem**: Mission clarity, structural resilience, culture transmission, governance evolution, economic sustainability
 - **Technology horizon**: Principles over implementations; modularity; data as asset; open standards
+- **If 1km disappears**: Providers lose income, customers lose coordination, businesses hit growth ceiling, communities lose local ownership
+- **Inheriting leadership**: Document why, train successors early, create transition rituals, maintain stability/adaptation tension, plan for failure modes
 - **Competitive stance**: Compete on trust, service, sustainability — not subsidies or features
 - **Financial model**: Lean operations, patient capital, stakeholder ownership, no extraction
 - **Risk register**: Technology disruption, regulatory hostility, well-funded competition, internal corruption, founder overreach, trust loss
-- **Succession**: Leaders from within, no founder syndrome, mission continuity over personal legacy
+
+**A hundred years is the destination. But every journey has a first step. That's Chapter 9 — the road ahead, starting now.**
 
 ---
 

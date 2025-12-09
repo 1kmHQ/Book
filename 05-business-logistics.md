@@ -4,6 +4,10 @@
 
 ---
 
+*Chapter 4 established provider prosperity as the foundation. But prosperity requires demand — consistent, predictable, sustainable demand. The most valuable source? Businesses. This chapter explores how serving business logistics anchors the entire 1km ecosystem.*
+
+---
+
 ## Lakshmi's Morning
 
 It's 4:30 AM. Lakshmi is already at her godown in Palani.
@@ -423,6 +427,9 @@ When business logistics works:
 
 Business logistics isn't a segment. It's the foundation.
 
+> **[Figure 5.2: Business Logistics Workflow]**
+> *Visual showing end-to-end flow: Godown (origin) → Vehicle Assignment → Route Optimization → En-route Tracking → Delivery Confirmation → Return Handling → Invoice Generation*
+
 ---
 
 ## Chapter Summary
@@ -436,10 +443,12 @@ Business logistics isn't a segment. It's the foundation.
 - **Scheduled logistics**: Transform chaotic daily scramble into predictable professional operations
 - **GST invoicing**: Formalises informal economy; enables tax benefits; builds trust
 - **Reverse logistics**: Returns, empty containers, documents — the hidden 20-30% cost that platforms ignore
-- **The unlock**: Business logistics creates stable demand that makes provider prosperity sustainable
+- **The flywheel**: Business logistics → Provider income stability → Provider prosperity → Better service → More business demand
 
-> **[Figure 5.1: Business Bulk Booking Flow]**
+> **[Figure 5.3: Business Bulk Booking Flow]**
 > *Visual showing: Business creates ride group → Multiple providers matched → Coordinated departure → Real-time tracking → Delivery confirmation → Single consolidated invoice*
+
+**Businesses and providers need a home. That home is the zone. Chapter 6 explains how zones are designed, operated, and grown.**
 
 ---
 

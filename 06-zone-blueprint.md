@@ -4,6 +4,10 @@
 
 ---
 
+*Chapter 5 showed how business logistics anchors demand. But demand needs a home — a geographic and operational container where providers, customers, and businesses connect. That container is the zone. This chapter is the blueprint for how zones work.*
+
+---
+
 ## Meet Anand: Zone Admin, Dharapuram
 
 Anand was a driver for twelve years. Auto first, then tempo. He knows every road in Dharapuram taluk — paved and unpaved. He knows which ones flood in monsoon, which ones have the potholes that damage axles, which ones are shortcuts that Google doesn't show.
@@ -215,6 +219,57 @@ The score isn't punitive — it's diagnostic. A struggling zone isn't a failure;
 
 ---
 
+## What Breaks a Zone
+
+Zones fail for specific, preventable reasons. Know them:
+
+### 1. Low Provider Trust
+Providers stop believing the system serves them. Signs:
+- "The commission is eating my margins"
+- "Payouts are delayed"
+- "They don't listen to us"
+- "That other platform pays better bonuses"
+
+**Prevention**: Constant attention to provider economics. Regular provider conversations. Fast response to complaints.
+
+### 2. Mispricing
+Prices too high: customers leave. Too low: providers suffer. Signs:
+- Customer complaints about cost vs. alternatives
+- Providers saying "I can't make this work"
+- Rides declining despite no other changes
+
+**Prevention**: Local price testing. Zone admin input. Willingness to adjust quickly.
+
+### 3. Wrong Zone Admin
+The admin doesn't fit. Signs:
+- Providers don't respect them
+- Problems go unresolved
+- Admin seems disengaged or absent
+- Community doesn't recognise them as "theirs"
+
+**Prevention**: Careful admin selection. Trial periods. Honest assessment. Willingness to change if needed.
+
+### 4. Competition Distortions
+A well-funded competitor enters with unsustainable subsidies. Signs:
+- Providers chasing bonuses elsewhere
+- Customers lured by ₹0 rides
+- Volume drops overnight
+
+**Prevention**: Build on trust, not price. Providers who stay for relationship — not incentives — are resilient. Accept short-term volume loss. Compete on sustainability.
+
+### 5. External Shocks
+Infrastructure collapses, economic downturn, regulatory change. Signs:
+- Sudden demand evaporation
+- Provider exodus
+- Conditions outside anyone's control
+
+**Prevention**: Diversified demand (business + personal). Strong relationships that survive shocks. Quick adaptation.
+
+> **[Figure 6.2: Zone Admin Responsibilities Wheel]**
+> *Visual wheel showing admin responsibilities: Provider Onboarding | Provider Support | Customer Issue Resolution | Local Pricing Input | Community Relationships | Quality Monitoring | Business Development | Reporting & Communication*
+
+---
+
 ## Zone Lifecycle
 
 Zones evolve through stages:
@@ -391,6 +446,45 @@ Better to have:
 
 ---
 
+## Cross-Zone Coordination Rules
+
+As zones multiply, coordination becomes critical. Rules:
+
+### 1. Provider Portability
+- Providers can work across zones if they meet requirements of both
+- Reputation carries: ratings, history, trust signals transfer
+- Commission stays consistent (no zone arbitrage)
+
+### 2. Ride Handoff Protocol
+- Cross-zone rides have clear pricing (sum of zone segments)
+- Provider attribution follows origin zone for earnings tracking
+- Customer sees one price, one experience — zone boundaries invisible
+
+### 3. Dispute Handling
+- Disputes follow the customer's zone admin as primary
+- Provider's zone admin consulted if provider perspective needed
+- Escalation to central if zones disagree
+
+### 4. Pricing Boundaries
+- Zones can price independently within their boundaries
+- Cross-zone rides use blended rate
+- No race-to-bottom on adjacent zone borders
+
+### 5. Information Sharing
+- Safety issues shared immediately (flagged providers, dangerous routes)
+- Learnings shared monthly (what's working, what failed)
+- Competitive intelligence shared (new entrants, pricing changes)
+
+### 6. Zone Admin Coordination
+- Monthly zone admin calls (regional clusters)
+- Quarterly in-person gatherings when possible
+- Shared playbooks and documentation
+- Peer support for struggling zones
+
+Cross-zone coordination should feel seamless to customers and providers. The complexity stays internal.
+
+---
+
 ## The Zone Network
 
 As zones mature, they connect.
@@ -463,16 +557,20 @@ Healthy zones are the only zones that matter.
 - **Zone = fundamental unit**: Everything else is built from zones; each is a self-contained economy
 - **Zone admin is crucial**: Local person with roots, reputation, and skin in the game — not remote employee
 - **Zone economics**: Pricing, commission (2-5%), incentives all calibrated to local conditions
+- **What breaks zones**: Low provider trust, mispricing, wrong admin, competition distortions, external shocks
 - **Zone Health Score**: Composite metric tracking provider earnings, customer retention, availability, resolution time
 - **Zone lifecycle**: Seed → Pilot → Growth → Maturity → Expansion (each stage has criteria)
 - **Federated governance**: Central provides tools and standards; zones provide execution and judgment
+- **Cross-zone coordination**: Provider portability, ride handoffs, dispute handling, information sharing
 - **Failing zones**: Warning signs, intervention options, and graceful retirement when needed
 - **Zone density matters**: Better 10 excellent zones than 50 struggling ones
 - **Network of networks**: As zones mature, they connect — cross-zone rides, portable reputation, shared learnings
 - **Resilience through distribution**: Local strength protects against central failure, bad decisions, extraction, irrelevance
 
-> **[Figure 6.2: Zone Lifecycle Stages]**
+> **[Figure 6.3: Zone Lifecycle Stages]**
 > *Visual showing progression from Seed to Pilot to Growth to Maturity to Expansion, with criteria at each stage*
+
+**Zones give us geography. But how do we make decisions when geography isn't enough? We need principles — the constitutional core. That's Chapter 7.**
 
 ---
 

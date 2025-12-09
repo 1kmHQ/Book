@@ -4,6 +4,10 @@
 
 ---
 
+*Chapter 3 described the hyperlocal economy — zones as economic cells, trust as currency, local governance as strength. But every zone depends on one thing: providers. This chapter is about them — and why their prosperity is our first priority.*
+
+---
+
 ## The Provider is the Platform
 
 Let's be clear about something: without providers, there is no 1km.
@@ -357,6 +361,64 @@ Build for their prosperity, and everything else follows.
 
 ---
 
+## The Provider Growth Path
+
+Prosperity isn't static. It's a journey. Here's what the path can look like:
+
+**Stage 1: Stable Provider**
+Earning consistently. Covering costs with margin. Building reputation. Learning the system.
+*Timeline: Months 1-6*
+
+**Stage 2: Preferred Provider**  
+Regular customers request specifically. Business accounts recognise the name. Premium demand flows naturally.
+*Timeline: Months 6-18*
+
+**Stage 3: Small Fleet Owner**
+Savings accumulate. Finances second vehicle. Hires a driver. Manages two incomes instead of one.
+*Timeline: Years 2-4*
+
+**Stage 4: Zone Mentor**
+Knowledge flows outward. Trains new providers. Advises on routes, customers, best practices. Becomes a pillar of the zone.
+*Timeline: Years 3-5*
+
+**Stage 5: Cooperative Founder**
+Multiple providers band together. Shared maintenance. Group insurance. Collective bargaining. True ownership.
+*Timeline: Years 5+*
+
+> **[Figure 4.3: The Prosperity Stack]**
+> *Visual pyramid showing layers from bottom to top: Dignity (respect, agency, fairness) → Stability (predictable earnings, coverage of costs) → Growth (savings, investment, skills) → Wealth (ownership, legacy, security)*
+
+The platform's job is to make each stage achievable. Not guaranteed — effort matters — but achievable.
+
+---
+
+## Preventing Provider Burnout
+
+Prosperity means nothing if providers destroy their health earning it.
+
+Gig platforms have a dirty secret: burnout is profitable. Desperate drivers work longer hours. Exhausted drivers take dangerous risks. Burned-out drivers are easily replaced.
+
+We design against this:
+
+**1. Slot System Limits**
+Providers set their own availability. The system doesn't push them to work more. No "you could earn ₹500 more if you stay online."
+
+**2. No Surge-Driven Overwork**
+Surge pricing creates a psychological trap: "I should work now, prices are high." Without surge, there's no trap.
+
+**3. Earnings Visibility**
+Providers see clearly what they've earned. No artificial "almost at bonus" nudges that extend exhausting shifts.
+
+**4. Rest Recommendations**
+The system can observe patterns. If a provider works 12 hours straight, gentle nudges suggest rest. Not mandates — but care.
+
+**5. Long-Term Orientation**
+The provider who works sustainably for five years earns more than the one who burns out in eighteen months. We want the former.
+
+Provider prosperity includes provider longevity. A prosperous provider is one who is still prospering ten years from now.
+
+---
+
 ## Chapter Summary
 
 - **Provider is the platform**: Without providers, nothing exists — everything else is support infrastructure
@@ -367,10 +429,14 @@ Build for their prosperity, and everything else follows.
 - **Cash as first-class**: Meet people where they are, not where technology wishes
 - **Autonomy and slots**: Providers control their time, not algorithms
 - **Psychological shift**: From desperate gig worker to professional service provider
+- **The growth path**: Provider → Preferred Provider → Fleet Owner → Zone Mentor → Cooperative Founder
+- **Burnout prevention**: Slot limits, no surge traps, rest recommendations, long-term orientation
 - **The prosperity flywheel**: Provider prosperity → service quality → customer trust → demand → prosperity
 
-> **[Figure 4.2: The Prosperity Flywheel]**
+> **[Figure 4.4: The Prosperity Flywheel]**
 > *Visual showing the virtuous cycle: Low commission → Provider prosperity → Better service → Customer trust → More demand → Sustainable growth → Continued low commission*
+
+**Provider prosperity needs demand to sustain it. The most reliable demand comes from businesses. Chapter 5 explores how business logistics anchors the entire system.**
 
 ---
 

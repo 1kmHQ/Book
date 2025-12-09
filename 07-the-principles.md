@@ -4,6 +4,10 @@
 
 ---
 
+*Chapter 6 gave us the zone blueprint — the geography of operations. But zones face decisions every day that no blueprint can answer. "Should we do this? Is this right? How do we choose?" For that, we need principles — the constitutional core of 1km.*
+
+---
+
 ## The Test at 2 AM
 
 Picture this:
@@ -266,6 +270,19 @@ Principles exist precisely for the moments when doing the right thing is costly.
 
 ---
 
+## Principles in Action: Three Stories
+
+**Story 1: The Fairness Test (Principle 3)**
+A large business account wants volume pricing: 20% discount for 500+ rides/month. Sounds fair — they're giving us scale. But wait: that discount comes from somewhere. Either we absorb it (unsustainable) or providers earn less on their rides (unfair). We decline. Instead: same rates, but faster invoice processing and priority support. Value for the business, no extraction from providers.
+
+**Story 2: Cash is King (Principle 6)**
+An investor suggests: "Move to digital-only. Cash handling is messy, risky, expensive." But 80% of rural transactions are cash. Excluding cash excludes most of our customers. We explain: cash is not a problem to solve. It's a reality to serve. The investor pushes back. We hold the line. Two years later, our cash-friendly approach is a competitive advantage competitors can't easily copy.
+
+**Story 3: No Surge (Principle 8)**
+It's harvest season. Demand spikes 3x. With surge pricing, we'd triple revenue this week. The algorithm could do it automatically. But the farmers paying surge prices are the same people who can least afford it — their margins are already thin. We keep prices stable. Providers earn more through volume, not through customer exploitation. Farmers remember.
+
+---
+
 ### 15. Include, Don't Exclude
 
 *Build for the edges, not just the centre.*
@@ -344,6 +361,24 @@ Principles don't guarantee success. But they guarantee that however things turn 
 
 ---
 
+## The Constitutional Reminder
+
+**These principles are the constitution. Everything else can change.**
+
+Features can change. Pricing can change. Technology can change. Markets can change. Team members can change. Even founders can change.
+
+But these principles? They are the permanent substrate. The bedrock. The things that make 1km what it is.
+
+If someone proposes violating a principle for growth, for revenue, for survival — the answer is no.
+
+If principles need to evolve, the process is deliberate: propose, debate, document, agree broadly, update formally. Not quietly. Not casually. Not in a crisis.
+
+A company without principles is just a collection of people doing things. A company with principles is an institution with character.
+
+We choose to be an institution.
+
+---
+
 ## Chapter Summary
 
 **The 16 Principles:**
@@ -372,7 +407,11 @@ Principles don't guarantee success. But they guarantee that however things turn 
 - Tell stories when principles guide hard choices
 - Hire for alignment
 
+**The constitutional reminder:** These principles are the constitution. Everything else can change.
+
 **The ultimate test:** If we followed these principles perfectly and still failed, would we be proud of how we operated? The answer must be yes.
+
+**Principles tell us how to act. But where are we going? What does success look like in a hundred years? That's Chapter 8.**
 
 ---
 

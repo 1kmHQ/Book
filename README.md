@@ -31,6 +31,8 @@ When you finish reading, you will understand:
 8. [The Hundred-Year Plan](./08-hundred-year-plan.md)
 9. [The Road Ahead](./09-road-ahead.md)
 
+**Appendix**: [Summary Constitution](./appendix-summary-constitution.md) — Quick reference for truths, principles, laws, and rules
+
 ---
 
 ## Who Should Read This
@@ -109,4 +111,54 @@ The farmer in Dharapuram and the driver in Hosur should be able to read this and
 
 ---
 
+## The Constitutional Statement
+
+> **This book is the constitution. No decision should violate it.**
+
+Every feature, every policy, every hire, every partnership, every pivot — all must be traceable to something in this book. If it contradicts the principles here, it doesn't happen.
+
+This isn't bureaucracy. It's integrity. A constitution exists to constrain power — including our own. When growth tempts us to compromise, when pressure mounts to cut corners, when "just this once" seems reasonable — we return here.
+
+The answer is written. We follow it.
+
+---
+
+## How This Book Evolves
+
+This book is not frozen. It will evolve. Here's the process:
+
+**Versioning**: The book is versioned. Each significant update gets a version number and date. Changes are documented in a changelog.
+
+**Proposal**: Any team member can propose changes. Proposals must explain: what changes, why, and what's affected.
+
+**Debate**: Significant changes require discussion. Not just among founders — zone admins, senior providers, and team leads should weigh in.
+
+**Approval**: Principle changes require broad consensus. Tactical updates can be approved by founders.
+
+**Documentation**: Every change is logged. Future readers should be able to trace how the book evolved.
+
+**Communication**: When the book changes, everyone who uses it is notified.
+
+The goal: evolution without erosion. The core stays stable. The details adapt.
+
+---
+
+## What to Read Next
+
+After this book, continue your understanding with:
+
+| Document | Purpose |
+|----------|---------|
+| **Operations Playbook** | Detailed how-to for zone admins: onboarding, support, escalations |
+| **Provider Handbook** | The provider-facing summary of their rights, responsibilities, and resources |
+| **Technical Schema (DATABASE.md)** | How data is structured in the platform |
+| **Tech Stack (TECH_STACK.md)** | What technologies power the platform and why |
+| **API Documentation** | For developers building on or integrating with 1km |
+| **Financial Model** | The unit economics, projections, and sustainability math |
+
+This book is the *why*. Those documents are the *how*.
+
+---
+
 *Last updated: January 2025*
+*Version: 1.0*
