@@ -1,5 +1,7 @@
 # 1KM: The Foundational Book
 
+Rural-first mobility and logistics platform connecting local drivers, vehicles, people, and businesses through hyperlocal zones.
+
 > *Every kilometre matters.*
 
 ---
