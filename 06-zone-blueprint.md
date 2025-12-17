@@ -8,23 +8,21 @@
 
 ---
 
-## Meet Anand: Zone Admin, Dharapuram
+## Meet Anand: From Top Driver to Zone Admin
 
 Anand was a driver for twelve years. Auto first, then tempo. He knows every road in Dharapuram taluk — paved and unpaved. He knows which ones flood in monsoon, which ones have the potholes that damage axles, which ones are shortcuts that Google doesn't show.
 
 More importantly, he knows people. The farmers who ship tomatoes every Tuesday. The distributors who need vehicles at dawn. The families who travel to temple towns on weekends. He's driven for all of them.
 
-When 1km came to Dharapuram, Anand was skeptical. Another app? Another company from the city that doesn't understand how things work here?
+When 1km launched in Dharapuram, Anand joined as a driver. Within six months, he was consistently in the top 5% — not just by rides, but by ratings, reliability, and the respect he commanded from customers and fellow drivers.
 
-But something was different. They asked him questions instead of giving instructions. They wanted to know: What do providers need? What do customers complain about? What would make this work *here*, in *this* place?
+That's when we asked him: would you help run this zone?
 
-Six months later, Anand isn't driving anymore. He's the zone admin.
+He still drives occasionally. But now he also onboards new providers (he vets them personally — "I know who's reliable"). Solves problems (a damaged shipment, a disputed fare). Adjusts things ("harvest starts next week, we'll need more tempos"). He's the face of 1km in a community that already knew his face.
 
-His day: onboarding new providers (he vets them personally — "I know who's reliable"). Solving problems (a damaged shipment, a disputed fare). Adjusting things ("harvest starts next week, we'll need more tempos"). Being the face of 1km in a community that knows his face already.
+The zone isn't run from some office in Bangalore. It's run by Anand — a driver who earned the role through performance, who stakes his reputation on it, who gets incentives when the zone thrives.
 
-The zone isn't run from some office in Bangalore. It's run by Anand, who lives here, who stakes his reputation on it, who knows that if it fails, he fails in front of people he's known for decades.
-
-This is the zone blueprint in human form.
+This is the zone blueprint in human form: **leadership that emerges from within, not imposed from outside.**
 
 ---
 
@@ -108,11 +106,21 @@ Mechanisms to learn what's working and what isn't. Reviews, complaints, conversa
 
 The zone admin is perhaps the most important role in the system.
 
-They are **not employees in a call centre**. They are local stakeholders — people with roots in the community, reputation to maintain, skin in the game.
+They are **not dedicated hires**. They are **top-performing drivers** who have earned the role through consistent excellence — and they continue driving while managing the zone.
+
+### Why Driver-Admins Work
+
+**Cost efficiency**: No separate salary for a full-time admin. The driver-admin earns through a combination of their own rides plus performance incentives tied to zone health.
+
+**Credibility**: A driver who became admin has proven themselves. Other drivers respect someone who rose from their ranks, not an outsider who's never driven a fare.
+
+**Skin in the game**: They still drive. They still feel fuel prices, difficult customers, bad roads. They can't make decisions that harm drivers because they *are* drivers.
+
+**Natural motivation**: Every driver wants to be top of their league. The admin role is aspirational — something to work toward, not a separate career track.
 
 ### What They Do
 
-**Onboarding**: Meet new providers personally. Verify documents. Explain the system. Set expectations. Build relationship.
+**Onboarding**: Meet new providers personally. Verify documents. Explain the system. Set expectations. Build relationships.
 
 **Support**: Handle problems — customer complaints, provider disputes, payment issues, misunderstandings. Not through tickets, through conversation.
 
@@ -122,25 +130,42 @@ They are **not employees in a call centre**. They are local stakeholders — peo
 
 **Growth**: Identify opportunities. Spread word of mouth. Bring in new providers and customers. Expand thoughtfully.
 
-**Representation**: Be the face of 1km in the community. Not a brand ambassador. A person who stands behind the platform.
+**Representation**: Be the face of 1km in the community. Not a brand ambassador. A peer who stands behind the platform.
+
+### How They're Selected
+
+Zone admins emerge, not get hired. The process:
+
+1. **Track performance**: After 3-6 months of operation, identify consistently top performers — not just rides, but ratings, reliability, zero disputes, peer respect
+
+2. **Observe leadership**: Some top drivers naturally help others. They answer questions, mentor newbies, mediate small conflicts. These are admin candidates.
+
+3. **Invite, don't appoint**: The best candidates are asked if they're interested. They choose to take on the role.
+
+4. **Trial period**: Start with small responsibilities. If it works, expand. If not, they stay as top drivers — no shame, no demotion.
+
+### How They're Compensated
+
+Zone admins earn from multiple sources:
+
+- **Their own rides**: They keep driving, keep earning from fares
+- **Zone performance bonus**: Monthly incentive tied to zone health metrics (rides completed, provider retention, customer satisfaction)
+- **Onboarding bonus**: Small payment for each provider they successfully bring on who completes their first 10 rides
+- **Problem resolution bonus**: Incentive for disputes resolved without escalation
+
+Total additional income: ₹4,000-8,000/month on top of driving earnings. Enough to be meaningful, not so much that it becomes a desk job.
 
 ### Who They Are
 
-Zone admins are selected, not hired. They typically have:
+Zone admins typically have:
+- 6+ months on the platform with top-tier performance
 - Deep roots in the community (5+ years presence)
-- Existing respect and reputation
-- Understanding of local transport/logistics
-- Communication skills (local language fluency)
+- Existing respect among other drivers
+- Natural leadership — people already ask them for advice
 - Basic digital literacy
 - Integrity that's visible and verifiable
 
-They might be:
-- Former drivers who've shown leadership
-- Local business owners who understand logistics
-- Community organisers with coordination experience
-- Retired professionals returning to their hometown
-
-They're compensated fairly — a mix of base and performance — but compensation isn't the main draw. The draw is **meaningful work in their own community**.
+They're **not** hired from outside. They're not management professionals. They're drivers who proved themselves and stepped up.
 
 ---
 
@@ -226,15 +251,15 @@ Let's work through a typical zone:
 - Platform commission: ₹9,000 (4% of ₹2,25,000)
 
 **Monthly Costs**
-- Zone admin compensation: ₹4,000-6,000
+- Zone admin incentives: ₹2,000-4,000 (performance-based, not salary)
 - Support allocation: ₹1,000
 - Technology/infrastructure: ₹1,000
 - Marketing/growth: ₹500
-- **Total: ₹6,500-8,500**
+- **Total: ₹4,500-6,500**
 
-**Result**: Zone generates ₹500-2,500 surplus monthly
+**Result**: Zone generates ₹2,500-4,500 surplus monthly
 
-This is thin. Intentionally. We're not optimizing for margin extraction.
+Note: Zone admin costs are lower because they're incentive-based (tied to performance), not fixed salaries. The admin earns primarily from their own rides — the incentives are a bonus for zone leadership, not a replacement income.
 
 ### Why This Works
 

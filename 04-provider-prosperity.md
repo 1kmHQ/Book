@@ -318,6 +318,80 @@ Their growth is our success.
 
 ---
 
+## Fleet Operators: Beyond Individual Drivers
+
+Not every provider is a single person with a single vehicle.
+
+In rural India, a significant portion of transport capacity comes from **fleet operators** — individuals or families who own or manage multiple vehicles. The driver behind the wheel might not be the person the customer builds a relationship with.
+
+### Who Are Fleet Operators?
+
+**Small fleet owners**: A person who started with one auto, saved enough to buy a second, maybe a third. Now they employ drivers while managing the business.
+
+**Family operations**: A father owns the vehicles; sons drive them. The business relationship is with the family, not individual drivers.
+
+**Vehicle financiers**: Someone who finances vehicles for others to drive, taking a cut of daily earnings. Common in rural areas where capital access is limited.
+
+**Tempo and truck operators**: Goods transport often involves fleet operators who own 3-10 vehicles and deploy drivers based on demand.
+
+### Why Fleet Operators Matter
+
+**They control significant capacity.** In many zones, 30-50% of vehicles are operated by fleet owners, not individual owner-drivers.
+
+**Customer trust is with the operator.** A business that books "Raju's Tempos" trusts Raju — they don't care which driver shows up, as long as Raju ensures quality.
+
+**They provide economic leverage.** Fleet operators can negotiate better fuel prices, maintenance rates, and insurance. This efficiency flows to the entire zone.
+
+**They're natural partners for scale.** When demand spikes — harvest season, festival logistics — fleet operators can deploy multiple vehicles quickly.
+
+### How 1km Supports Fleet Operators
+
+**Operator accounts**: A fleet operator gets a single account that manages multiple vehicles and drivers. One dashboard, one settlement, one relationship.
+
+**Driver management**: Operators can add/remove drivers from their fleet. Track which driver used which vehicle. See performance by driver and by vehicle.
+
+**Flexible commission**: Operators can set their own arrangements with their drivers. The platform facilitates the split; it doesn't dictate it.
+
+**Customer-operator binding**: When a business books through "Raju's Tempos," the booking goes to Raju's fleet — he assigns the driver. The customer relationship stays with Raju.
+
+**Fleet analytics**: Operators see which vehicles are most profitable, which routes work best, which drivers perform. Data to run a better business.
+
+### The Economics
+
+Fleet operators often work on thin margins themselves:
+- Vehicle EMIs to pay
+- Driver salaries or revenue shares
+- Maintenance across multiple vehicles
+- Insurance and permits
+
+Our low commission helps them too. At 20% platform cut, fleet operations become unsustainable. At 4%, operators can build genuine businesses.
+
+### Individual Driver vs Fleet Operator
+
+Both are "providers" in our system. The platform supports both equally:
+
+| | Individual Driver | Fleet Operator |
+|---|---|---|
+| Account type | Personal | Business |
+| Vehicles | 1 | 2-50+ |
+| Customer relationship | With driver | With operator |
+| Settlement | To driver | To operator (who pays drivers) |
+| Zone admin eligibility | Yes | Yes (often preferred) |
+
+**We don't force a choice.** An individual driver can become a fleet operator over time. The platform grows with them.
+
+### Fleet Operators as Zone Admins
+
+Fleet operators often make excellent zone admin candidates:
+- They already manage people (their drivers)
+- They understand business operations
+- They have capital at stake in the zone's success
+- Other providers respect their success
+
+Many zones will be led by fleet operators who started as individual drivers years ago. Their growth path led them to both fleet ownership and zone leadership.
+
+---
+
 ## The Provider Promise
 
 Here's what we promise to every provider who joins 1km:
