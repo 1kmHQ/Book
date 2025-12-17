@@ -26,6 +26,77 @@ Understanding this is the key to everything.
 
 ---
 
+## The Customers We Serve
+
+Before we go further into zones and economics, let's be clear about who we're building for. The customer is not an abstraction — they're real people with specific needs.
+
+### The Individual
+
+**Kavitha** needs to reach the district hospital for her daughter's checkup. It's 15 km away. She doesn't own a vehicle. Her husband is at work. The bus takes two hours with connections. She needs a direct ride, scheduled for tomorrow morning.
+
+What she cares about:
+- **Reliability** — The vehicle must actually show up
+- **Safety** — A driver she can trust, or at least one with verified history
+- **Fair price** — Not exploited because she's desperate
+- **Simplicity** — Book quickly, know what to expect
+
+Her alternatives today: call around hoping someone answers, negotiate a price, wait and worry.
+
+### The Farmer
+
+**Raman** has 300 kg of tomatoes ready for the Tuesday mandi. He needs to get them there by 7 AM or prices drop. He's done this every week for years, but reliability is still a gamble.
+
+What he cares about:
+- **Timeliness** — Late means lost money
+- **Care** — His produce shouldn't be damaged
+- **Predictable cost** — So he can calculate margins
+- **Availability** — Especially during harvest when everyone needs vehicles
+
+His alternatives today: the same three drivers he always calls, hoping one is free. If none are, he sells to a middleman at the farm gate for half the price.
+
+### The Shop Owner
+
+**Meena** runs a provisions store in a small town. She sources from the district wholesale market twice a week. Each trip means closing her shop for half a day.
+
+What she cares about:
+- **Delivery option** — Can someone bring goods to her instead?
+- **Scheduling** — She knows her needs in advance
+- **Documentation** — Bills for her records
+- **Consistency** — Same service quality every time
+
+Her alternative today: her husband makes the trip, or she pays whatever a random tempo driver demands.
+
+### The Family
+
+**The Velmurugan family** needs to attend a wedding 40 km away. Four people, including elderly parents. They need a comfortable vehicle, on time, for a full day.
+
+What they care about:
+- **Comfort** — Not squeezing into an auto
+- **Full-day booking** — Not negotiating per trip
+- **Trust** — Their parents are traveling; the driver matters
+- **Flexibility** — Wedding schedules slip; can they adjust?
+
+Their alternative today: borrow a relative's car, or pay premium to someone they barely know.
+
+---
+
+### What All Customers Share
+
+Despite different needs, every customer wants the same fundamentals:
+
+| Need | What It Means |
+|------|---------------|
+| **Certainty** | When I book, it happens. No maybes. |
+| **Transparency** | I know the price before I commit. No surprises. |
+| **Trust** | The driver is verified, accountable, from my area. |
+| **Simplicity** | I shouldn't need to learn a complicated system. |
+| **Recourse** | If something goes wrong, there's someone to call. |
+| **Respect** | I'm treated fairly whether I book once a month or once a day. |
+
+These aren't features. They're the minimum bar for infrastructure.
+
+---
+
 ## What "Hyperlocal" Really Means
 
 Hyperlocal is not a buzzword. It's a design principle.

@@ -1,77 +1,81 @@
-# Appendix: The 1km Summary Constitution
+# Appendix: Quick Reference
 
-> *A one-stop reference for the foundational truths, principles, and laws of 1km.*
-
----
-
-## 8 Foundational Truths
-
-1. **The provider is the platform.** Without them, nothing exists.
-
-2. **Trust is local.** It's built face-to-face, one kilometre at a time.
-
-3. **Rural is not "urban minus."** It's a different world with different rules.
-
-4. **Commission kills prosperity.** 5% enables it; 20% destroys it.
-
-5. **Cash is infrastructure.** Meet people where they are.
-
-6. **Zones are atoms.** Everything scales from healthy local units.
-
-7. **Slow is sustainable.** Fast growth on weak foundations collapses.
-
-8. **Extraction is death.** The moment we extract, we become what we oppose.
+> *Summary of beliefs, principles, and rules.*
 
 ---
 
-## The 16 Principles
+## The Three Core Beliefs
 
-| # | Principle | Core Idea |
-|---|-----------|-----------|
-| 1 | Provider Prosperity First | Everything starts with provider wellbeing |
-| 2 | Trust Over Growth | Broken trust kills; slow growth doesn't |
-| 3 | Fairness Is Non-Negotiable | Every actor treated equitably |
-| 4 | Local Knowledge, Local Power | Zone admins know best |
-| 5 | Simplicity Over Cleverness | If it needs explaining, simplify |
-| 6 | Cash Is Welcome | Digital-only excludes most of rural India |
-| 7 | Immediate Money | Provider's money, instantly available |
-| 8 | No Surge Pricing | Never exploit need |
-| 9 | Dignity In Every Interaction | Respect is baseline, not bonus |
-| 10 | Document Everything | What isn't recorded can be disputed |
-| 11 | Safety Without Surveillance | Protection, not control |
-| 12 | Long-Term Over Short-Term | Infrastructure, not transactions |
-| 13 | Admit Mistakes Quickly | Honesty repairs trust |
-| 14 | Earn, Don't Extract | Revenue from value, not capture |
-| 15 | Include, Don't Exclude | Build for the edges |
-| 16 | Slow Is Smooth, Smooth Is Fast | Deliberate pace beats rushed chaos |
+These never change. Everything else is built on them.
+
+| # | Core Belief | What It Means |
+|---|-------------|---------------|
+| 1 | **The Provider is the Platform** | Without drivers, nothing exists. They're not "supply" — they're the reason we exist. |
+| 2 | **Trust is the Only Moat** | We have no advantage that can't be copied except trust. Trust compounds; everything else decays. |
+| 3 | **We Are Infrastructure, Not Extraction** | We enable movement; we don't tax it. Value created locally stays local. |
+
+**When any decision conflicts with a core belief, the core belief wins. Always.**
 
 ---
 
-## 6 Economic Laws
+## The Eight Guiding Principles
 
-1. **The Commission Law**: Platform commission never exceeds 5% for rides, 3% for business logistics.
+These rarely change. They guide decisions when core beliefs don't immediately resolve the question.
 
-2. **The Payout Law**: Providers can access their earnings instantly. We never hold float.
-
-3. **The Pricing Law**: No surge. No hidden fees. Transparent, fair, stable.
-
-4. **The Local Capture Law**: 95%+ of fare value stays with the provider and zone.
-
-5. **The Sustainability Law**: Each zone must reach local profitability. No perpetual subsidies.
-
-6. **The Patient Capital Law**: No exit-driven growth. Build for decades, not quarters.
+| # | Principle | Core Idea | The Test |
+|---|-----------|-----------|----------|
+| 1 | **Provider Prosperity First** | Provider wellbeing is the foundation | Would a thoughtful provider say this respects them? |
+| 2 | **Fairness Over Profit** | Fair to all, even when unfairness would be profitable | Could we explain this to a farmer without embarrassment? |
+| 3 | **Local Knowledge, Local Power** | Those who understand local context make local decisions | Are people closest to the problem empowered to solve it? |
+| 4 | **Simplicity Over Cleverness** | Simple systems beat clever ones | Can a first-time user understand this without help? |
+| 5 | **Meet People Where They Are** | Cash, offline, low-tech — serve reality | Does this work for someone with a basic phone? |
+| 6 | **Dignity In Every Interaction** | Everyone deserves respect | Would we want our family on the receiving end? |
+| 7 | **Long-Term Over Short-Term** | Build as if we'll be here in 20 years | Will this decision still look right in five years? |
+| 8 | **Admit Mistakes Quickly** | When wrong, say so, then fix it | Would we be comfortable if this was in the press? |
 
 ---
 
-## 4 Governance Rules
+## The Economic Laws
 
-1. **Federal, Not Central**: Zones govern locally; platform provides tools and standards.
+| # | Law | Specifics |
+|---|-----|-----------|
+| 1 | **Low Commission** | 2-5% for rides, never more. Lower than industry standard (15-25%). |
+| 2 | **Instant Payouts** | Providers can access earnings immediately. We never hold float for profit. |
+| 3 | **No Surge Pricing** | Same ride, same price, any time. Demand-supply balanced through provider incentives, not customer penalty. |
+| 4 | **Local Value Capture** | 95%+ of fare stays with provider and zone. Money flows to those who do the work. |
+| 5 | **Zone Sustainability** | Each zone must reach local profitability. No perpetual subsidies. |
+| 6 | **Patient Growth** | No exit-driven timelines. Build for decades, not quarters. |
 
-2. **Stakeholder Voice**: Providers, zone admins, and customers have formal input into policy.
+---
 
-3. **Principle Override**: When rules conflict with principles, principles win.
+## The Governance Rules
 
-4. **Succession Planning**: Leaders come from within. Mission continuity over personal legacy.
+| # | Rule | What It Means |
+|---|------|---------------|
+| 1 | **Federal, Not Central** | Zones govern locally; platform provides tools and standards |
+| 2 | **Stakeholder Voice** | Providers, zone admins, and customers have formal input into policy |
+| 3 | **Belief Override** | When rules conflict with core beliefs, beliefs win |
+| 4 | **Succession Planning** | Leaders come from within. Mission continuity over personal legacy |
+
+---
+
+## The Hierarchy
+
+When things conflict, higher levels win:
+
+```
+1. CORE BELIEFS (3)      ← Never change
+         ↓
+2. PRINCIPLES (8)        ← Rarely change
+         ↓
+3. ECONOMIC LAWS (6)     ← Stable constraints
+         ↓
+4. GOVERNANCE RULES (4)  ← How power operates
+         ↓
+5. POLICIES              ← Can change as needed
+         ↓
+6. TACTICS               ← Day-to-day choices
+```
 
 ---
 
@@ -79,21 +83,12 @@
 
 When facing any decision:
 
-> **If it strengthens trust or prosperity, proceed.**
-> **If it weakens either, stop.**
+> **Does it strengthen trust or prosperity?** → Proceed
+> **Does it weaken either?** → Stop
 
----
+Not "does it improve metrics." Not "does it satisfy investors." 
 
-## The Constitutional Hierarchy
-
-1. **Foundational Truths** — Non-negotiable beliefs
-2. **Principles** — Guides for decisions
-3. **Economic Laws** — Constraints on the model
-4. **Governance Rules** — How power operates
-5. **Policies** — Changeable specifics
-6. **Tactics** — Day-to-day choices
-
-Higher levels override lower levels. When in doubt, look up the hierarchy.
+Trust and prosperity. That's it.
 
 ---
 
@@ -103,11 +98,11 @@ Higher levels override lower levels. When in doubt, look up the hierarchy.
 |--------|------------|
 | Infrastructure | An app |
 | Provider-first | Growth-first |
-| Hyperlocal | Pan-India |
+| Hyperlocal | Pan-India from day one |
 | Patient | Blitz-scaling |
 | Transparent | Clever |
 | Fair | Extractive |
-| Rural-native | Urban-export |
+| Rural-native | Urban-exported |
 | Trust-based | Transaction-based |
 | Long-term | Exit-seeking |
 
@@ -121,8 +116,21 @@ If you remember nothing else:
 
 ---
 
+## What is 1km?
+
+A platform where you can book local vehicles for rides and deliveries in rural India.
+
+Three services:
+- **Personal rides** — Autos, cabs, vehicles for travel
+- **Goods & deliveries** — Farm to market, shop to customer
+- **Business logistics** — Multi-vehicle booking, fleet tracking, invoicing
+
+The vehicles exist. The drivers exist. The demand exists. 1km is the bridge.
+
+---
+
 *This summary is not a substitute for the full book. Read all chapters for complete understanding.*
 
 ---
 
-*Version 1.0 — January 2025*
+*Version 2.0 — December 2025*

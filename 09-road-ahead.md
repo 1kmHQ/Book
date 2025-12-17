@@ -4,39 +4,33 @@
 
 ---
 
-*Chapter 8 painted the hundred-year vision. But a century is made of days. This chapter is about the days that come first — the immediate road ahead.*
+*Chapter 8 described the long-term vision. This chapter is about what we do first.*
 
 ---
 
 ## Standing at the Edge
 
-It's early morning in Zone Zero. The first zone. The zone where everything we've written in this book will be tested.
+It's early morning in Zone Zero. The first zone. The zone where everything we've written will be tested.
 
-We've spent chapters describing the broken system, articulating our philosophy, detailing the hyperlocal model, explaining provider prosperity, outlining business logistics, mapping zone operations, codifying principles, and envisioning a hundred-year future.
+Now comes the moment of truth. Theory becomes practice. Vision becomes reality — or doesn't.
 
-Now comes the moment of truth.
-
-Theory becomes practice. Philosophy becomes operations. Vision becomes reality — or doesn't.
-
-This chapter is about what happens next. The immediate steps. The pilot protocol. The success metrics. And — because we believe in honesty — what happens if we fail.
+This chapter is about what happens next: the immediate steps, the pilot protocol, success metrics, and what we do if things don't work.
 
 ---
 
 ## Where We Stand
 
 You've read about:
-- The broken system we're addressing
-- The philosophy that guides us
-- The hyperlocal economy we're building
-- The provider prosperity model at our core
-- The business logistics infrastructure we enable
-- The zone blueprint for operations
-- The principles that govern decisions
-- The hundred-year vision we're working toward
+- The problem we're solving
+- Our philosophy and approach
+- How zones work
+- Why provider prosperity matters
+- Business logistics
+- Operations and economics
+- Decision-making principles
+- Long-term vision
 
 Now what?
-
-This chapter is about the immediate road ahead — not the distant future, but the next steps. What we must do first. How we begin.
 
 ---
 
@@ -491,7 +485,7 @@ It means:
 - We have more to learn
 - The path is harder than expected
 
-The hundred-year plan assumes setbacks. The question isn't whether we'll fail, but whether we'll learn from failure and persist.
+Building something real means setbacks. The question isn't whether we'll fail, but whether we'll learn and persist.
 
 ---
 
@@ -511,8 +505,8 @@ Not busy. Not growing. Healthy — balanced supply and demand, sustainable econo
 **Are we proud?**
 Would we be proud to show our work to a journalist? To a provider's family? To our own families? If not, something is wrong.
 
-**Is this building toward a hundred years?**
-Or are we making short-term choices that undermine long-term possibility?
+**Are we building for the long-term?**
+Or making short-term choices that undermine what we're trying to build?
 
 These questions don't have easy answers. But asking them keeps us oriented.
 
@@ -534,7 +528,7 @@ Here's what we invite:
 
 **If you're a potential team member**: We're not offering high salaries or fast exits. We're offering meaningful work on something that matters. Is that enough?
 
-**If you're a potential investor**: Patient capital only. We're not optimising for your timeline. We're building for a hundred years. Are you in?
+**If you're a potential investor**: Patient capital only. We're building for the long-term. Are you in?
 
 **If you're a potential critic**: We welcome scrutiny. Our principles are written down. Hold us to them. Point out where we fall short.
 
@@ -600,7 +594,7 @@ But someone has to try. Someone has to believe that the extractive model isn't t
 
 If we fail, at least we'll have tried honestly.
 
-If we succeed, we'll have proven something important: that business doesn't have to be a zero-sum game. That providers and platforms can prosper together. That a hundred-year vision is possible in a world of quarterly earnings.
+If we succeed, we'll have proven that providers and platforms can prosper together. That patient building is possible. That someone cared enough to try.
 
 That's why we're doing this.
 

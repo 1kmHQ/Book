@@ -267,7 +267,7 @@ For rural mobility to work, we need a system that:
 
 7. **Governs locally.** Each zone has its own dynamics. The system must adapt, not impose.
 
-8. **Thinks in decades.** Not growth hacks. Not blitzscaling. Slow, compounding trust that survives generations.
+8. **Thinks long-term.** Build trust slowly, not through growth hacks.
 
 ---
 

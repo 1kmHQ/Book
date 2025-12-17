@@ -187,6 +187,127 @@ Local profitability creates resilience. The zone doesn't depend on subsidies fro
 
 ---
 
+## How 1km Makes Money
+
+Let's be explicit about the business model. No obfuscation.
+
+### Revenue Sources
+
+**1. Commission on Rides (Primary)**
+- 2-5% of fare value
+- Paid by provider, deducted from their earnings
+- Lower than industry standard (which is 15-25%)
+
+**2. Business Account Fees (Secondary)**
+- Optional premium features for business users
+- Monthly subscription for advanced tools (fleet tracking, invoicing, multi-user access)
+- Priced to cover costs with modest margin
+
+**3. Float Interest (Minimal)**
+- Brief holding of funds during payment processing
+- Not a profit center — money moves fast
+- Transparency: providers see exactly when money moves
+
+That's it. No hidden fees. No data selling. No advertising. No bait-and-switch.
+
+### The Math: How a Zone Sustains Itself
+
+Let's work through a typical zone:
+
+**Assumptions (Mature Zone)**
+- 50 active providers
+- 30 rides/provider/month average
+- 1,500 rides/month total
+- Average fare: ₹150
+- Commission: 4%
+
+**Monthly Revenue**
+- Gross transaction value: ₹2,25,000 (1,500 × ₹150)
+- Platform commission: ₹9,000 (4% of ₹2,25,000)
+
+**Monthly Costs**
+- Zone admin compensation: ₹4,000-6,000
+- Support allocation: ₹1,000
+- Technology/infrastructure: ₹1,000
+- Marketing/growth: ₹500
+- **Total: ₹6,500-8,500**
+
+**Result**: Zone generates ₹500-2,500 surplus monthly
+
+This is thin. Intentionally. We're not optimizing for margin extraction.
+
+### Why This Works
+
+| Traditional Platform | 1km |
+|---------------------|-----|
+| 20% commission | 4% commission |
+| ₹45,000 platform revenue | ₹9,000 platform revenue |
+| Provider keeps ₹1,80,000 | Provider keeps ₹2,16,000 |
+| Platform-heavy economics | Provider-heavy economics |
+
+Providers keep ₹36,000 more per month in the zone. That's ₹720 per provider. That's prosperity.
+
+### When Zones Don't Work
+
+Not every zone will be profitable. Red flags:
+
+**Too little demand**
+- Under 500 rides/month can't sustain zone costs
+- Solution: Combine with adjacent zone or defer launch
+
+**Too much competition**
+- Subsidized competitors distort the market
+- Solution: Wait them out (they'll burn cash) or don't enter yet
+
+**Wrong pricing**
+- Fares too low = provider exodus
+- Fares too high = customer exodus  
+- Solution: Local calibration, zone admin input
+
+**High support burden**
+- Lots of disputes, problems, complaints
+- Support costs exceed revenue
+- Solution: Better onboarding, stricter provider quality
+
+### What We Don't Do
+
+**We don't subsidize growth.** Every ride should be profitable from day one. If we need to lose money to get users, those users aren't real.
+
+**We don't race to the bottom.** If a competitor offers 0% commission temporarily, we don't match. We compete on trust, not on self-destruction.
+
+**We don't extract when we can.** A zone that *could* support 8% commission still gets 4%. Margin is not the goal. Prosperity is.
+
+---
+
+## Where Money Flows: A Visual
+
+> **[Figure 6.X: Money Flow in a Zone]**
+
+```
+CUSTOMER PAYS ₹150 FOR A RIDE
+         │
+         ▼
+┌─────────────────────────────────────┐
+│  PROVIDER RECEIVES ₹144 (96%)       │
+│  ├── Fuel & vehicle costs           │
+│  ├── Provider's income              │
+│  └── Available immediately          │
+└─────────────────────────────────────┘
+         │
+         ▼
+┌─────────────────────────────────────┐
+│  PLATFORM RECEIVES ₹6 (4%)          │
+│  ├── Zone admin share               │
+│  ├── Technology costs               │
+│  ├── Support costs                  │
+│  └── Small surplus for growth       │
+└─────────────────────────────────────┘
+```
+
+**96% stays with the person who did the work. 4% sustains the infrastructure that made the connection possible.**
+
+---
+
 ## Zone Health Score
 
 How do we know if a zone is healthy? We measure it.
@@ -570,7 +691,7 @@ Healthy zones are the only zones that matter.
 > **[Figure 6.3: Zone Lifecycle Stages]**
 > *Visual showing progression from Seed to Pilot to Growth to Maturity to Expansion, with criteria at each stage*
 
-**Zones give us geography. But how do we make decisions when geography isn't enough? We need principles — the constitutional core. That's Chapter 7.**
+**Zones give us geography. But how do we make decisions when geography isn't enough? We need principles — that's Chapter 7.**
 
 ---
 
