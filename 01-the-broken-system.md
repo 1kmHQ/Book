@@ -26,11 +26,11 @@ This is not a logistics problem. This is an **infrastructure failure** so normal
 
 Let's ground this in data:
 
-- **Rural India**: ~65% of India's population, ~833 million people
-- **Vehicle ownership**: Only 8% of rural households own a four-wheeler
-- **Transport cost**: Rural transport costs 30-50% more per kilometre than urban
-- **Post-harvest losses**: 15-20% of agricultural produce lost to logistics failures
-- **Income unpredictability**: Rural transport workers face 40-60% income volatility month to month
+- **Rural India**: Around two-thirds of India's population, over 800 million people
+- **Vehicle ownership**: Only a fraction of rural households own a four-wheeler
+- **Transport cost**: Rural transport costs significantly more per kilometre than urban
+- **Post-harvest losses**: A substantial portion of agricultural produce lost to logistics failures
+- **Income unpredictability**: Rural transport workers face high income volatility month to month
 
 These aren't just statistics. Each number represents millions of people caught in a system that doesn't work.
 

@@ -623,7 +623,7 @@ Take what's useful. Leave what isn't. Build something better.
 That's all we can ask.
 
 — The Founders
-January 2025
+December 2025
 
 ---
 

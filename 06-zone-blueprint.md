@@ -153,7 +153,7 @@ Zone admins earn from multiple sources:
 - **Onboarding bonus**: Small payment for each provider they successfully bring on who completes their first 10 rides
 - **Problem resolution bonus**: Incentive for disputes resolved without escalation
 
-Total additional income: ₹4,000-8,000/month on top of driving earnings. Enough to be meaningful, not so much that it becomes a desk job.
+Total additional income: ₹2,000-8,000/month on top of driving earnings, depending on zone size and performance. Enough to be meaningful, not so much that it becomes a desk job.
 
 ### Who They Are
 
@@ -251,13 +251,13 @@ Let's work through a typical zone:
 - Platform commission: ₹9,000 (4% of ₹2,25,000)
 
 **Monthly Costs**
-- Zone admin incentives: ₹2,000-4,000 (performance-based, not salary)
+- Zone admin incentives: ₹2,000-4,000 (performance-based, varies with zone health)
 - Support allocation: ₹1,000
 - Technology/infrastructure: ₹1,000
 - Marketing/growth: ₹500
 - **Total: ₹4,500-6,500**
 
-**Result**: Zone generates ₹2,500-4,500 surplus monthly
+**Result**: Zone generates ₹2,500-4,500 surplus monthly (larger/busier zones have higher admin incentives but also higher revenue)
 
 Note: Zone admin costs are lower because they're incentive-based (tied to performance), not fixed salaries. The admin earns primarily from their own rides — the incentives are a bonus for zone leadership, not a replacement income.
 

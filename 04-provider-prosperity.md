@@ -497,7 +497,7 @@ Provider prosperity includes provider longevity. A prosperous provider is one wh
 
 - **Provider is the platform**: Without providers, nothing exists — everything else is support infrastructure
 - **Prosperity, not just income**: Financial security + dignity + growth opportunity + safety net
-- **Commission mathematics**: 5% vs 20% = ₹27,000/year difference per provider
+- **Commission mathematics**: Low commission vs industry standard = significant annual difference per provider
 - **True vehicle economics**: ₹14,000-20,000/month fixed costs before earning anything
 - **Instant payouts**: Provider's money belongs to provider — no platform float
 - **Cash as first-class**: Meet people where they are, not where technology wishes

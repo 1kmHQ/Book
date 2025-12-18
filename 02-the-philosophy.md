@@ -238,7 +238,7 @@ A basic phone call becomes as powerful as the fanciest app. Voice booking in the
 Registration over phone — AI walks them through it. Ride alerts as phone calls — AI announces the booking, provider says yes or no. Route guidance as voice calls — AI gives directions in real-time.
 
 **For the zone economics:**
-No call center salaries. No dispatcher wages. No operator training costs. The AI handles 90% of coordination. The zone admin handles exceptions. The cost structure that made rural operations unprofitable becomes viable.
+No call center salaries. No dispatcher wages. No operator training costs. The AI handles most routine coordination. The zone admin handles exceptions. The cost structure that made rural operations unprofitable becomes viable.
 
 **For scale:**
 Serving 100 customers or 10,000 customers costs nearly the same. The AI doesn't need more salaries as volume grows.
